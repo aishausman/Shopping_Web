@@ -105,6 +105,8 @@
 
             <li><a href="#">Separated link</a></li>
 
+            <li><a href="#">Another separated link</a></li>
+
           </ul>
 
         </li>
